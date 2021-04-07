@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EKassan1
+- 👋 Hi, I’m @EKassan1 (Eric Kassan)
 - 👀 I’m interested in building great code
 - 🌱 I’m currently learning GIT
 - 💞️ I’m not looking to collaborate for now
